@@ -1,4 +1,5 @@
 import os
+os.system("clear")
 os.system("figlet                     NETT")
 print("Repository:        https://github.com/Fandi63/NETT")
 print("Options:")
